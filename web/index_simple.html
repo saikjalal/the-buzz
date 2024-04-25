@@ -1,0 +1,82 @@
+<!DOCTYPE html />
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>The Buzz</title>
+  <!-- <script src="login.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" href="app.css" />
+  <link href="https://fonts.googleapis.com/css?family=Fresca" rel="stylesheet">
+</head>
+<body>
+  <div id="addElement">
+    <h3>Add a New Entry</h3>
+    <label>Message</label>
+    <textarea id="newMessage"></textarea>
+    <input type="file" id="fileInput" /> <!-- Add file input element -->
+    <button id="addButton">Add</button>
+   <!---- <button id="addFile">Upload File</button>  adding a file should not be the same as adding a new element!-->
+    <button id="addCancel">Cancel</button>
+  </div>
+
+  <div id="addComment">
+    <h3>Add a New Comment</h3>
+    <label>Comment</label>
+    <textarea id="newComment"></textarea>
+    <button id="addCommentButton">Add</button>
+    <button id="addCommentCancel">Cancel</button>
+  </div>
+
+  <div id="myProfile">
+    <h3>My Profile</h3>
+    <p id="myProfName">Name:</p>
+    <p id="myProfEmail">Email:</p>
+    <p class ='myProfileInfo' id="myProfSexual">Sexual Identity: </p>
+    <p class ='myProfileInfo' id="myProfGender">Gender Orientation: </p>
+    <p class ='myProfileInfo' id="myProfBio">Bio</p>
+    <button class ='myProfileInfo' id="editProfileButton">Edit</button>
+    <button class ='myProfileInfo' id="profileBackbutton">Back</button>   
+    <label class ='editProfile'>Sexual Identity: </label>
+    <textarea class ='editProfile' id="sexualIdentityInput"></textarea>
+    <label class ='editProfile' >Gender Orientation: </label>
+    <textarea class ='editProfile' id="genderOrientationInput"></textarea>
+    <label class ='editProfile'>Bio </label>
+    <textarea class ='editProfile' id="bioInput"></textarea>
+    <button class ='editProfile' id="SubmitEditProfileButton">Submit</button>
+    <button class ='editProfile' id="editProfileCancelButton">Cancel</button>
+  </div>
+
+  <div id="otherProfile">
+    <h3>My Profile</h3>
+    <p id="otherProfName">Name:</p>
+    <p id="otherProfEmail">Email:</p>
+    <p id="otherProfBio">Bio</p>
+    <button class ='otherProfileInfo' id="otherProfileBackbutton">Back</button>
+  </div>
+  
+  <!--
+  <div id="editElement">
+    <h3>Edit an Entry</h3>
+    <label>Title</label>
+    <input type="text" id="editTitle" />
+    <label>Message</label>
+    <textarea id="editMessage"></textarea>
+    <span id="editCreated"></span>
+    <input type="hidden" id="editId" />
+    <button id="editButton">Update</button>
+    <button id="editCancel">Cancel</button>
+  </div>
+-->
+  <div id="showElements">
+    <h3> The Buzz </h3>
+    <button id="showFormButton">Add Message</button>
+    <button id="showMyProfile">My Profile</button>
+    <div id="messageList"></div>
+  </div>
+  <hr />
+</body>
+</html>

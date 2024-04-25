@@ -1,0 +1,2665 @@
+commit 4fb40d53a673681f21ba00e9b9c27062ae69311e
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 19:39:33 2023 -0400
+
+    app.ts
+
+commit 7d3e9a98d9d36768f77414ff4bc05a3f36740572
+Merge: 630a5d6 817b0ad
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 19:33:46 2023 -0400
+
+    made base64 encoder method
+
+commit 630a5d608b9878f3db1f5f85a49ec1efc1eb6e5d
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 19:32:20 2023 -0400
+
+    base64 encoder
+
+commit 5732458550ba8fd3ff23f3165cad2a165017cb3f
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 19:31:27 2023 -0400
+
+    base64 encoder method made
+
+commit 817b0ad639b7af315525882c9c8cd002a09fc637
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 18:17:18 2023 -0400
+
+    was able to get rid of some backlog items
+
+commit b3bde4494de4498ba01b9e0861d452467c95039a
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 17:37:02 2023 -0400
+
+    adding files to comments isn't a requirement I believe but still a functionality
+
+commit 18e5970c8e62ced881d28deebddfe228036f996a
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun May 7 17:07:11 2023 -0400
+
+    object should no longer be null with files
+
+commit 77107ef3c4c7f769cefe9e9a2429925868944d98
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat May 6 19:56:45 2023 -0400
+
+    fixing UI stuff
+
+commit 3c0684349cdc76f96bc4afd41e3a6e3b8a64916a
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:36:12 2023 -0400
+
+    changes
+
+commit 860f6e6457ee7dd69206d1c38191f0290842591b
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:27:21 2023 -0400
+
+    updated readme.md
+
+commit 812d8e77a72b055710310e2224ab38e7cb3839ff
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:25:27 2023 -0400
+
+    backlog items in readme
+
+commit 043b7b907b82476b57e1603275970883e2202eab
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:07:29 2023 -0400
+
+    commented some stuff out
+
+commit 61da3f88f5dc3dc2bd9240bfdea6c23b58e5e539
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:04:28 2023 -0400
+
+    tests are done
+
+commit 9ee7f3c6d91bb4ec6cc2c4ba1afdf6851b5e797d
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 19:01:17 2023 -0400
+
+    file button, still throws error that states that file is empty
+
+commit 55b1ccc9fc6845a5a02139135475312b0db54fd0
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 18:23:42 2023 -0400
+
+    throwing file empty error?
+
+commit 17a8103aa9f5ea65e3ddc4e0b02bae13ef189f0f
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 17:33:16 2023 -0400
+
+    changes react
+
+commit b1b68d5ec9bcaafca6f616790d6224c33a9e0654
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 16:19:03 2023 -0400
+
+    changes
+
+commit d1fed8f36b211033c54ea7eec742f4f09a6fd74a
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu May 4 16:18:27 2023 -0400
+
+    changes to comments
+
+commit c97bf9dfb091688e334317c8e401aa4634c14fff
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Tue May 2 10:29:58 2023 -0400
+
+    implement serializable for memcache to get token correctly
+
+commit c6758c4e6ae89348059552e9f13e487382340878
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Tue May 2 09:46:18 2023 -0400
+
+    merge conflicts + oauth error maybe fixed
+
+commit 954d74c3f83ffaeef2b3117b724a0e3d3138463a
+Merge: 2d31ccf dbdb432
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Tue May 2 09:45:29 2023 -0400
+
+    Merge branch 'backend' of bitbucket.org:saj325/cse216team05 into backend
+
+commit 2d31ccfbf94d24c09fe8ad0762b249b2cc707327
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Tue May 2 09:40:12 2023 -0400
+
+    maybe fixed oauth error?
+
+commit dbdb432461d66580aabbf8bd3c0bd814931703e1
+Merge: cdf34c5 1c192bc
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Tue May 2 03:19:47 2023 +0000
+
+    Merged pre-master into backend
+
+commit 1c192bc09fee6ed5e90d870621af349972e5c5b9
+Merge: d879813 5794345
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Tue May 2 03:16:22 2023 +0000
+
+    Merged in web (pull request #38)
+    
+    Web
+    
+    Approved-by: Ethan Lavi
+
+commit 5794345ed3ab72e8c452c9ae30b1e34c0e6f241b
+Merge: 5a5e8e3 d879813
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Tue May 2 03:16:11 2023 +0000
+
+    Merged pre-master into web
+
+commit d879813a10d5fba1ebef5d3b493b351e88303d1b
+Merge: dd69551 7fc2199
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Tue May 2 03:14:51 2023 +0000
+
+    Merged in admin (pull request #36)
+    
+    Admin
+    
+    Approved-by: Ethan Lavi
+
+commit 7fc2199b7881d084fef64ce40c4734c5ea66cd9d
+Merge: 2fbb2f4 dd69551
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Tue May 2 03:14:37 2023 +0000
+
+    Merged pre-master into admin
+
+commit cdf34c579f4227e0056b5e4296485e02c8d0a3a5
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Mon May 1 22:12:48 2023 -0400
+
+    removed testing files
+
+commit a8dd04002bfc6d8b2090606edfcf98f727311b0a
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Mon May 1 22:11:46 2023 -0400
+
+    fixed error with getting comment files
+
+commit e4f9267a0247555397486d51785c022207cf315a
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Mon May 1 22:00:55 2023 -0400
+
+    one test was failing, thought i already chagned it but should work now
+
+commit fc0acd7269484f65c5595c0ccf7280f103f687d5
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Mon May 1 21:47:32 2023 -0400
+
+    removed unnecessaruy files
+
+commit 0306a0313339d0c88bb607823a86670114e9f270
+Author: Paul Kearns <paulkearns@dyn240210.cc.lehigh.edu>
+Date:   Mon May 1 21:46:00 2023 -0400
+
+    files should now be working for everything
+
+commit 5a5e8e30b58de3472bf2694538930a7699ff533c
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon May 1 21:23:12 2023 -0400
+
+    should be able to add links and find url using regex
+
+commit e839f064ddd334b4dfc82bbc2c541eaeb8c0f93c
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon May 1 13:43:47 2023 -0400
+
+    basic unit tests are done
+
+commit 9d145f68e5a2fd290ae2cab21442fa83455eddc3
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Mon May 1 03:12:18 2023 -0400
+
+    in theory files should be uploadable to database? i still return the dummy filestring though
+
+commit 54d9e2d68edfe57bba1bb60677828252e36f7f41
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Mon May 1 02:23:34 2023 -0400
+
+    uploadFiles method now reads from filestring parameter
+
+commit b7abfd1313db5fafac76f0705db23e85e80ac64e
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Mon May 1 02:08:16 2023 -0400
+
+    comment sql statements theoretically updated
+
+commit 39b4b0ceb9d0baf0a0a00c62fd189ab9611c324a
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Mon May 1 02:01:56 2023 -0400
+
+    updated sql commands for message
+
+commit 2fbb2f4b31fa84e98cace16b6873c6d30abe4260
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 30 22:49:40 2023 -0400
+
+    message table now has file column with null default
+
+commit a0681ea5a8e90a78ccaf4b8fe8b43213a30c57c5
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Sun Apr 30 21:15:37 2023 -0400
+
+     can download filesgit add backend/ woohoo
+
+commit 0bae98c6f7a9aefbc2fd43d3a40ffd361695998c
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Sun Apr 30 18:09:25 2023 -0400
+
+    drive upload still isnt working
+
+commit fe0e7995f7263b06d0e59f739dfd5139e904bbec
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Sat Apr 29 14:37:06 2023 -0400
+
+    i think memcache is working
+
+commit 58a0d04ddc1e656ca5765a45231074e0b3a6ff6e
+Author: Paul Kearns <paulkearns@dyn207027.cc.lehigh.edu>
+Date:   Sat Apr 29 14:34:31 2023 -0400
+
+    lot of memcache stuff
+
+commit 524ada71b5e3d0beca9d46cd7eb89c7542d492c3
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 28 14:51:01 2023 -0400
+
+    adding functions in database.java and prepared statements to invalidate the files in messsages/comments
+
+commit b0d59b161ce06d8a1adbf46d7edf95f146f47cba
+Author: Paul Kearns <paulkearns@dyn198009.cc.lehigh.edu>
+Date:   Fri Apr 28 01:54:53 2023 -0400
+
+    added memcache dependency
+
+commit 80d1d8a8276f21f902739a9cdac1b744e5be9114
+Author: Paul Kearns <paulkearns@dyn214118.cc.lehigh.edu>
+Date:   Thu Apr 27 19:37:21 2023 -0400
+
+    added files to comments, just test file for now
+
+commit 2dfe5848f896133b59a77370adc895e4af6c4b58
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Apr 27 19:25:13 2023 -0400
+
+    started unit tests
+
+commit 7aa8f08ac629f3bfd7b78ee68717b69caa5aaeb7
+Merge: ccbddc3 d10bb43
+Author: Paul Kearns <paulkearns@dyn214118.cc.lehigh.edu>
+Date:   Thu Apr 27 19:20:38 2023 -0400
+
+    Merge branch 'backend' of bitbucket.org:saj325/cse216team05 into backend
+
+commit ccbddc359cb842122e59ad5fb4bc65c16d46d3aa
+Author: Paul Kearns <paulkearns@dyn214118.cc.lehigh.edu>
+Date:   Thu Apr 27 19:18:44 2023 -0400
+
+    test route for getOneMessage should now work. Changed unit tests, sql getOneMessage and getAllMessages
+
+commit 98758d416d927dbb66007f06cc79a284d7825a9d
+Author: Paul Kearns <paulkearns@dyn214118.cc.lehigh.edu>
+Date:   Thu Apr 27 19:17:58 2023 -0400
+
+    updated messages with compareTo method
+
+commit 7f3c14b16db9f25e203dec782a3dd81c7ed3e403
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Apr 27 18:16:47 2023 -0400
+
+    created an input field for users to add links or pictures
+
+commit 657c96388da9a4912b1b6c19c3a9ce92468007f3
+Author: Paul Kearns <paulkearns@dyn198028.cc.lehigh.edu>
+Date:   Thu Apr 27 10:10:48 2023 -0400
+
+    created second constructor for getAllMessages, and return messages without files or comments in getAllMessages
+
+commit c0500547ad42c4a118593811dcac98e1c0042143
+Author: Paul Kearns <paulkearns@dyn198028.cc.lehigh.edu>
+Date:   Thu Apr 27 09:38:33 2023 -0400
+
+    i think getAllmessages should work as intended (no comments returned)
+
+commit 27cba71ffe52b179622391e3d2f45fdb703efa80
+Author: Paul Kearns <paulkearns@dyn198028.cc.lehigh.edu>
+Date:   Thu Apr 27 09:29:37 2023 -0400
+
+    edited getAllMessages to not return comments
+
+commit 3b4192c9e143e25500a6ff5371809618a369fec6
+Author: Paul Kearns <paulkearns@dyn196155.cc.lehigh.edu>
+Date:   Tue Apr 25 00:31:35 2023 -0400
+
+    added file to message object
+
+commit dd69551a4fcd810f76c2c771fd2b859c753ead02
+Merge: eeaec46 b2b61b0
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Mon Apr 24 02:52:48 2023 +0000
+
+    Merged in admin (pull request #35)
+    
+    added tests to be implemented
+    
+    Approved-by: Ethan Lavi
+
+commit b2b61b08c430c8992ea2fbb894cbc4faf98a4825
+Merge: 23275b7 eeaec46
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Mon Apr 24 02:52:30 2023 +0000
+
+    Merged pre-master into admin
+
+commit 23275b7305a7e3f6a039a4d266ed73700179ffc8
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 23 17:27:17 2023 -0400
+
+    added tests to be implemented
+
+commit eeaec46d8fbf0c99cd2c6fac8d077dc6e33a9506
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Apr 23 18:41:08 2023 +0000
+
+    .gitignore edited online with Bitbucket
+
+commit 00d1aaebcce16e0b8932f3e5a63cd137d3cdb0bf
+Merge: 978a3db d10bb43
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 23 18:38:07 2023 +0000
+
+    Merged in backend (pull request #34)
+    
+    Backend
+    
+    Approved-by: Ethan Lavi
+
+commit d10bb43fe0b51ea6db1fe46c37c1763947ed4ac9
+Merge: b3a0580 978a3db
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Apr 23 18:37:50 2023 +0000
+
+    Merged pre-master into backend
+
+commit 978a3db5518930514d50ed15ef346e3101337242
+Merge: 3e3c84c b4845cd
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Apr 23 18:36:25 2023 +0000
+
+    Merged in mobile (pull request #32)
+    
+    Mobile
+    
+    Approved-by: Ethan Lavi
+
+commit b4845cd671a7f66f4bbaaa95f52a8b4b27124256
+Merge: a69b302 3e3c84c
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Apr 23 18:36:13 2023 +0000
+
+    Merged pre-master into mobile
+
+commit 3e3c84c18080ab0d24020a70db87d96af8ca38a5
+Merge: 6ca7a94 9fcb157
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Apr 23 18:35:56 2023 +0000
+
+    Merged in web (pull request #33)
+    
+    General test descriptions for phase 3
+    
+    Approved-by: Ethan Lavi
+
+commit 9fcb1578f1b467c15742df713880dc1fd7ac54b2
+Merge: 9816c66 6ca7a94
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Apr 23 18:35:27 2023 +0000
+
+    Merged pre-master into web
+
+commit b3a05805892346c3abcf24e84214d562a7a9fc33
+Merge: 6ca7a94 2e1c8a5
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Apr 23 14:34:31 2023 -0400
+
+    Merge branch 'backend' into pre-master
+
+commit 2e1c8a5cbf24ba102f2c2d3d188abab94b38d5c8
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 23 18:21:27 2023 +0000
+
+    README.md unit tests descriptions
+
+commit d8b1fedff46818ebd72fb3108455b59ec5171579
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 23 18:13:06 2023 +0000
+
+    README.md added unit test descriptions
+
+commit 9816c661cd91e58db0109e04f36159a2360412d0
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 23 12:45:43 2023 -0400
+
+    General test descriptions for phase 3
+
+commit a69b3021ccb811affc67b79156abfd34c4a70d3b
+Author: Josephine <jck423@lehigh.edu>
+Date:   Sun Apr 23 16:41:39 2023 +0000
+
+    Added unit test descriptions for phase 3
+
+commit 7eb3547b6eb5dfda7de37afe58fb64a0af20edb5
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Apr 21 16:55:59 2023 -0400
+
+    tests forgot to push
+
+commit 16c96fe93b004a765877a1ed632f656e97013531
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Apr 21 16:53:19 2023 -0400
+
+    live grade complete
+
+commit a1a802790d5ccaff3ebe29fc545220aa4c450661
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Apr 20 09:42:46 2023 -0400
+
+    Fix javadoc error
+
+commit dfefe29cc53c3b6c1ab504b40199f9b79325960d
+Author: saj325 <saj325@lehigh.edu>
+Date:   Tue Apr 18 10:13:07 2023 -0400
+
+    all basic functionalities working --> oAuth isn't
+
+commit 6ca7a945992cdf76e6b635edb10e987c1a892c13
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 17 02:57:13 2023 +0000
+
+    README.md edited online with Bitbucket
+
+commit 23cb5ca6b46dbe543bc024f6aa93aa4e978c72e4
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 17 02:54:00 2023 +0000
+
+    phase1-sprint10-PM_report.md finished
+
+commit a77dfa30b3dc307e4ddbdb3707c79de39b01ee4f
+Merge: 01a5614 24e3cdb
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Mon Apr 17 01:48:31 2023 +0000
+
+    Merged in mobile (pull request #31)
+    
+    Mobile
+    
+    Approved-by: Paul Kearns
+
+commit 24e3cdb9fd89c9970b7479ff4b4e9b2f41ec987c
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 16 21:38:54 2023 -0400
+
+    includes dart documentation
+
+commit 01a5614560a372ad22de06abd4aa3ca14a3ecc93
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 17 00:32:49 2023 +0000
+
+    phase1-sprint10-PM_report.md continued
+
+commit bfb0438a6cab520684b9105b07463c232f7b6aa4
+Merge: 0ab7e0c ad3d011
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Mon Apr 17 00:13:32 2023 +0000
+
+    Merged in web (pull request #30)
+    
+    Web - really cool
+    
+    Approved-by: Paul Kearns
+
+commit 78dbb23ed054d5f9d1ab3923066df64ec576728b
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 16 19:57:00 2023 -0400
+
+    login screen done
+
+commit ad3d0114cae5e93bd7b76eba267cceb37999f35b
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 16 19:45:07 2023 -0400
+
+    remove log
+
+commit 0ab7e0c8f346fcb57e355c43d1fa18cb6fb21126
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 16 23:35:10 2023 +0000
+
+    phase1-sprint10-PM_report.md started
+
+commit 9875541c851a66e527ecbed6d7427c6b23c91228
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 16 23:13:49 2023 +0000
+
+    README.md updated partially
+
+commit ef75016bad9703100c1205cef0121c23c1333270
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 16 19:09:12 2023 -0400
+
+    added documentation
+
+commit 95481b596dae0135f00b8502912d8fc58e6e70e7
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 16 18:55:51 2023 -0400
+
+    newest changes
+
+commit 910117c5d10123f157d2fd5bbfffec4c4161c0a9
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 16 22:44:50 2023 +0000
+
+    README-phase2.md edited online with Bitbucket
+
+commit 00303f4bd529c6c2de8fa51c3e04fe566bf1ed39
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 16 22:17:44 2023 +0000
+
+    phase1-sprint10-PM_report.md started
+
+commit b8e64fdd34a9957f2c0c1cfbf70cae35228118d5
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 16 17:47:55 2023 -0400
+
+    formatting issues
+
+commit 9f31b1d56bf1856fb6547e61a88f385b9f5c3677
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 16 17:38:55 2023 -0400
+
+    finished up login authentication I think
+
+commit 40cf08eedcfc54f0b16ff2b867926652662d8417
+Merge: 911bd2b cab4a83
+Author: Josephine <jck423@lehigh.edu>
+Date:   Sun Apr 16 19:44:31 2023 +0000
+
+    Merged in admin (pull request #29)
+    
+    Documentation - neat
+    
+    Approved-by: Paul Kearns
+
+commit 2fef52b78ca843079d83959d37dc1a7a4e9be7e3
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Apr 16 14:39:24 2023 +0000
+
+    README.md fix for backend pr
+
+commit ef2e803787d4d19278cca8dd6d90be2bdad5287e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Apr 16 00:05:57 2023 -0400
+
+    Added comments
+
+commit 6b65597698f49482d383d697656bcb06c2c9378b
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 15 23:49:49 2023 -0400
+
+    removing unused file
+
+commit 87b4c03f609976edc08e6fdb6692b28d471f272f
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 15 23:49:18 2023 -0400
+
+    Broke down Database into readable files
+
+commit 718d1f85df5a6b0241cab834e516aefbdc617ab9
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 15 20:14:23 2023 -0400
+
+    Refactoring changes before testing and safestatement conversion
+
+commit 6aefaaa4fdababe45b958f4c7c78be39b2d88c2a
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 14 14:36:53 2023 -0400
+
+    some styling changing
+
+commit 6e33cc634d6316da9b16638fcbb4177b5697d9b2
+Merge: 6801261 af4635e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 14 14:32:13 2023 -0400
+
+    Merge branch 'web' into backend
+
+commit 455cc065bc2544c8f3c497ef5c5deb9250ce00ad
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Apr 14 14:19:19 2023 -0400
+
+    adding authentication
+
+commit 68012611b752a14b27ac2d48d2a19338578b0a16
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 14 14:16:21 2023 -0400
+
+    README Improvements
+
+commit 911bd2b0d696e3a4320668188721a4d64b963a3d
+Merge: fb52f63 af4635e
+Author: Paul Kearns <paulkearns@dyn232189.cc.lehigh.edu>
+Date:   Thu Apr 13 19:08:02 2023 -0400
+
+    merging newest web updates
+
+commit af4635e9a257cf47b54711dc3ca312177c0d7dd5
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 13 18:13:46 2023 -0400
+
+    commented out functions that we dont need rn
+
+commit 644044e9576240f9c317954f01af47c16276df4d
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Apr 13 10:24:40 2023 -0400
+
+    loading screen
+
+commit fb52f6370f96dd617e06fb499391d2bb661eff39
+Merge: e0709b5 f411845
+Author: Paul Kearns <paulkearns@dyn210099.cc.lehigh.edu>
+Date:   Thu Apr 13 10:24:27 2023 -0400
+
+    merging profile updates
+
+commit cab4a83c3cfa6d89a2331b06e58e1668b1df284a
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 13 10:22:13 2023 -0400
+
+    added javadocs and link in readme
+
+commit f4118458523f2e631b260c1d0f09d8a7af04b97e
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 13 10:22:05 2023 -0400
+
+    completed front end
+
+commit 4b66dcf92972c0948e28ac765067ca0dedfc4f0b
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Apr 13 10:00:39 2023 -0400
+
+    changes
+
+commit e0709b58998dbac1aab8318fe51b94b40d6eed87
+Author: Paul Kearns <paulkearns@dyn210099.cc.lehigh.edu>
+Date:   Thu Apr 13 09:57:01 2023 -0400
+
+    admin dependenices
+
+commit cca7b1871982792a5dcad374aeb487c05233e530
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Apr 13 09:38:27 2023 -0400
+
+    Updated readme and javadocs
+
+commit 2e6069000a5149e0dc963bd2725dc172f0ae500e
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Wed Apr 12 06:13:49 2023 +0000
+
+    phase1-sprint9-PM_report.md done
+
+commit a68ca7ec5842b42d08310b009e5cb824646cc22c
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Wed Apr 12 05:32:18 2023 +0000
+
+    phase1-sprint9-PM_report.md admin
+
+commit 1f581cd97b0b40c057d476210c248f70c98164e8
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Wed Apr 12 05:15:35 2023 +0000
+
+    phase1-sprint9-PM_report.md edited - done backend
+
+commit 4155ad0202f08a70fac3d11e04dd1ac342dda3e3
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Wed Apr 12 05:06:22 2023 +0000
+
+    phase1-sprint9-PM_report.md created online with Bitbucket
+
+commit 7c5d2a81d6398264c047e1caae240c4d4f5014e9
+Merge: beac390 a863572
+Author: Paul Kearns <paulkearns@dyn208070.cc.lehigh.edu>
+Date:   Tue Apr 11 23:02:44 2023 -0400
+
+    hopefully resolving merge conflicts
+
+commit a863572734a9e72dd6ef5870a99e6eacb3c40bea
+Author: Paul Kearns <paulkearns@dyn208070.cc.lehigh.edu>
+Date:   Tue Apr 11 22:52:04 2023 -0400
+
+    weird local conflict
+
+commit beac3903b4ee36c9d9e6aff402c2e620f73d564a
+Merge: db8e80d 9f4de41
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Wed Apr 12 02:36:24 2023 +0000
+
+    Merged in web (pull request #24)
+    
+    Web - neat stuff
+    
+    Approved-by: Paul Kearns
+
+commit db8e80d4965cece17d72a14ff5665d22fc985172
+Merge: 96dd068 987473c
+Author: Paul Kearns <paulkearns@dyn208070.cc.lehigh.edu>
+Date:   Tue Apr 11 22:34:31 2023 -0400
+
+    merge conflict resolution attempt
+
+commit 96dd068df2a62787ee71a24ffd27e5ed599cd888
+Merge: 5502802 58931f4
+Author: Josephine <jck423@lehigh.edu>
+Date:   Wed Apr 12 00:25:14 2023 +0000
+
+    Merged in admin (pull request #25)
+    
+    Admin branch for sprint 9
+    
+    Approved-by: Paul Kearns
+
+commit 9f4de419d84e965e7c1d2c23f9d1a15123084503
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 11 19:46:01 2023 -0400
+
+    updated backend:
+
+commit 6b63f2d7a586cb1b47f2a2f8f165808c275482c7
+Merge: 321e26d 987473c
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 11 18:54:11 2023 -0400
+
+    updating backend
+
+commit 321e26df2797a204aa9d8b86124c1420bd420dfb
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 11 18:53:00 2023 -0400
+
+    wokring on updates
+
+commit 987473ce26fde5243b14d383199f998e0084fda8
+Merge: 45407a9 dd09bf0
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Apr 11 18:48:09 2023 -0400
+
+    Fixing issues with backend and pre-master
+
+commit 0829f499f7b2a261a96e46b12b67379ee3e4d7fa
+Author: saj325 <saj325@lehigh.edu>
+Date:   Tue Apr 11 16:45:53 2023 -0400
+
+    skrinkwrap
+
+commit 55028028d4447ebe26b7b5a5209e3ec19a0af028
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Tue Apr 11 14:16:30 2023 +0000
+
+    README.md edited with updated info
+
+commit 58931f41d2e77460853a5132a6b46ae55b6d1c29
+Merge: cf3e935 8543fdb
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Tue Apr 11 10:05:18 2023 -0400
+
+    Merge branch 'admin' of bitbucket.org:saj325/cse216team05 into admin
+
+commit cf3e935adff22dea41cbc7ea87bf11c2a3c6f691
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Tue Apr 11 10:04:39 2023 -0400
+
+    added drop tables test
+
+commit 50411c5869f2fbe9fef0e5a7faabe52bd1011fd3
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 11 10:04:09 2023 -0400
+
+    session and user id now properly saved in cookies
+
+commit 8543fdb7bed044bb3ce189c2fadcf28acae98b7f
+Author: Josephine <jck423@lehigh.edu>
+Date:   Tue Apr 11 13:44:48 2023 +0000
+
+    README.md edited online with Bitbucket
+
+commit af95bb5e35d4d86bebd3cc986420879f894e5d76
+Author: saj325 <saj325@lehigh.edu>
+Date:   Tue Apr 11 09:44:08 2023 -0400
+
+    constants
+
+commit 45407a90506960ff75580c39d8fbc946db409c98
+Merge: ee377f8 ce11bab
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Apr 11 09:40:39 2023 -0400
+
+    Merge branch 'web' into backend
+
+commit ce11bab11a17bc14b54e75fae2fa59cf6bdcde62
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 11 09:39:53 2023 -0400
+
+    show session
+
+commit cdb8099d5a4517d1cd055291ea31f8ffeced89ba
+Author: saj325 <saj325@lehigh.edu>
+Date:   Tue Apr 11 09:39:03 2023 -0400
+
+    created constants.dart as a helper function to store values for oAuth
+
+commit ee377f80e26d370f8818fa6410672d2a5ccea7c4
+Merge: 618b4d6 7451e9c
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Apr 11 09:32:20 2023 -0400
+
+    Merge branch 'web' into backend
+
+commit 618b4d68bc93f66d902b5b663415ecbaa230b2d7
+Merge: ace0ebd f8c1976
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Apr 11 09:30:25 2023 -0400
+
+    Merge branch 'web' into backend
+
+commit 7451e9c1f9c6e515d90d0b761dee9450738fa2ee
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Mon Apr 10 23:17:17 2023 -0400
+
+    can check your profile and edit it
+
+commit 160e87b0dfdf5fd6795008b315542ae99bc41c3f
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon Apr 10 22:54:00 2023 -0400
+
+    main.dart importing loading screen
+
+commit ef4a4ab707bc18c3196dc1dcd136afc484770fe4
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon Apr 10 22:50:56 2023 -0400
+
+    minor change
+
+commit 4dd5fbbdfd3d3e7496d7a39bfa663c200958226b
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon Apr 10 22:50:11 2023 -0400
+
+    made a loading screen for time spent in-between screens (logging in and logged in).
+
+commit 507d1d3b98dd175343c3b0d47acbd57daa5b35a0
+Author: saj325 <saj325@lehigh.edu>
+Date:   Mon Apr 10 18:23:15 2023 -0400
+
+    Made some changes and had to change flutter web. Also had to comment out platform environment in singleton
+
+commit ace0ebd35dea7396fa334cc3bd8988fb76819fbe
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Apr 10 16:30:33 2023 -0400
+
+    Fixed bio not returning
+
+commit 3df8d839e2890d02aaa1524bb220e19608f1a04a
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Mon Apr 10 16:20:00 2023 -0400
+
+    profile button is working and info is showing up
+
+commit 5c32e227871ee09ef7a575d54638714b217b1179
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Mon Apr 10 15:23:25 2023 -0400
+
+    user id is now received from session route
+
+commit e2c0c85d8dcab223784336dd7c48acfb11f80c7b
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Apr 10 12:35:49 2023 -0400
+
+    Returning userid from session authenticate
+
+commit a3648f0082ab3fb0e887e44fdf7572298798087e
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 9 23:03:49 2023 -0400
+
+    google sign in
+
+commit bd74130b245a8f01d144f80572ed63be064a37a2
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 9 22:41:19 2023 -0400
+
+    Added google log in dependencies required for flutter
+
+commit bb0bb24c3bfed2cb50f973d36d7240b9349ad65e
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 9 22:40:52 2023 -0400
+
+    Login Page
+
+commit 21884293aa8ed0c584e69a941e6984411866a051
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Apr 9 20:26:25 2023 -0400
+
+    added getOneMessage for testing
+
+commit 4c584387e46c6cf5b923791ffc1ead489047f7b1
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Apr 9 20:12:34 2023 -0400
+
+    fixed ID swap in comments, change from backend
+
+commit 44f43d9bf34f7f20b8f3d0cf5f786028b90aeaf9
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 9 15:14:25 2023 -0400
+
+    comments in progress
+
+commit 80d0101b7dea5ccb6098f9d4cfdbd0f4d6cd13e7
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Apr 9 13:41:25 2023 -0400
+
+    boolto toggle comments
+
+commit 26e56199626c001b21cab0d8a75003ce1c8a7381
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 9 12:24:00 2023 -0400
+
+    added missing functionality to comment, they can now be edited and deleted with their own buttons
+
+commit f580fa8c951689adee076cacef979a8abd27a692
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Apr 9 00:23:12 2023 -0400
+
+    added some comments
+
+commit 3469b4593fb89d4daaca601be5b356d9a25c4ef4
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Apr 8 23:53:21 2023 -0400
+
+    the comments are showing up for each message when you click show more
+
+commit 99e79bff6203056607de0808ea828759b62874c7
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Apr 8 23:37:49 2023 -0400
+
+    comments are showing up
+
+commit b188d199a7c005e5d7c142f49b52cfdb0bc13e21
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Apr 8 17:47:08 2023 -0400
+
+    you can now post a comment
+
+commit f0f83bdcd87fb2a6def6f0a3f0f9ca0e1e5c8567
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 8 17:34:33 2023 -0400
+
+    Improved error messages
+
+commit 15f493593143a36fde1785a8167b4130bb35c904
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 8 17:25:36 2023 -0400
+
+    Fixed id swap in comments
+
+commit 6d2e10b271cc06c966a8ed7ae26950a5f77f9dd8
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 8 17:23:39 2023 -0400
+
+    Added better error message
+
+commit cd51661a385523baf02e45cd67527147aa6d85d5
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sat Apr 8 17:15:30 2023 -0400
+
+    refined print statements after commands
+
+commit 9a75578a06bb397c6b82aa8b3946f43e84772486
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Apr 8 14:09:28 2023 -0400
+
+    added show more/less comment button and add comment button but still need to make it work
+
+commit e415368ff4014225a0251e85eaa8f82377a39448
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Apr 8 12:52:40 2023 -0400
+
+    user can log in and session id is saved
+
+commit f24e876c8e22b9c6d7364b693b909f223eec4a81
+Merge: 4f447dd 286a396
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 21:59:38 2023 -0400
+
+    Merge branch 'backend' into web
+
+commit 4f447dd2186c6a94e80389ccd90626b2fbf81be3
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 18:07:08 2023 -0400
+
+    combined log in features into one js file
+
+commit 87530cd20a5c8fbac448e24e5e3030a3d7094e60
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 17:40:26 2023 -0400
+
+    session id and auth heeader working
+
+commit 286a39693b8715ac0439a8afc67892f593559607
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 16:24:03 2023 -0400
+
+    Adding tests for hiding gender identity and sexual identity
+
+commit 39f55660f48577975fa777393f7521132d91ab2a
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 16:23:39 2023 -0400
+
+    Blocking non-self for viewing gender and sexual orientation
+
+commit 8c3bd2ad9457613480ef2520dc85b9d0b94df7e4
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 16:12:02 2023 -0400
+
+    Denying non-lehigh emails
+
+commit a8aac1d9f02f8f74765afcff67a36e3f5c1f81d9
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 16:01:15 2023 -0400
+
+    Tiny tweaks
+
+commit f253f3f9ec14539be955a1aeadfde2d743cb2caa
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 15:35:48 2023 -0400
+
+    Fixed bug where ids where switched around
+
+commit 4653273aab78e85d45960d4d29dd1432ac585787
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Fri Apr 7 15:34:17 2023 -0400
+
+    updated test data and formatting for get all
+
+commit 94be8b13060f42b9f83cc0663070ad3811ba9371
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 14:58:23 2023 -0400
+
+    Stashing chagens
+
+commit d146b76bd17ce13ac138823028407c61b16f7628
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 14:41:24 2023 -0400
+
+    Remove hardcoded token
+
+commit 2f6cab3b4205c46ae76e9a42227eb40cbd9514c0
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 14:30:35 2023 -0400
+
+    Fixed tiny bugs, improved testing
+
+commit 8d83614f878f69620d575eafb5274f34cb9fea6b
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Fri Apr 7 13:48:49 2023 -0400
+
+    added ability to fill tables with test data
+
+commit e4f437360c0f951accefc401e748b3771e072d1d
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Fri Apr 7 13:13:03 2023 -0400
+
+    updated app and database.java to match new backend changes
+
+commit f8c19765d9aac75a2d66f77b47eb8b25d2ce554c
+Merge: b7021c7 4016eee
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 12:28:47 2023 -0400
+
+    Merge branch 'backend' into web
+
+commit b7021c7c380c6e5f38d5edb4eeaf71f0e5cf23f1
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 12:27:42 2023 -0400
+
+    connecting ts files:
+
+commit 4016eee559f99de3db5945bfc6dca6baf40f1d74
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 12:15:45 2023 -0400
+
+    Bypass authentication temp
+
+commit 2fc12a34487aa8c5742107e47ade9dfd4b2f62c9
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 11:25:56 2023 -0400
+
+    Added some auth tests and expanded testing
+
+commit 653d8f72bba7c93a51ad602365e21904cd37f935
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 11:25:35 2023 -0400
+
+    Added authentication
+
+commit b4c18628b8fc2739a3de002522b1a68f23699078
+Merge: 576aae9 4c5b178
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 10:45:03 2023 -0400
+
+    Merge branch 'backend' into web
+
+commit 576aae9c6eacee48082931ae64c49bc222df74dd
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Apr 7 10:44:05 2023 -0400
+
+    backend changes
+
+commit 4c5b178f9af37ebe9c9187457604539006282e47
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 01:15:31 2023 -0400
+
+    Finished backend implementation
+
+commit 80c6bb7aac83523d52971bf88ec4fb6ad5203c21
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 01:15:05 2023 -0400
+
+    Added testing for backend
+
+commit cba866b365d3c3d4666485b523172e260fd31835
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Apr 7 01:14:45 2023 -0400
+
+    Started refactoring the project
+
+commit f155b4af01b15ea47121a600a3678044ca07ea01
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Fri Apr 7 00:12:08 2023 -0400
+
+    created separate functions for all DB calls in app.java
+
+commit ae3be790cadc61e9158aca208c5c79677da5950c
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 20:04:53 2023 -0400
+
+    added disconnect from database at the end of each test
+
+commit 5dcc19413ec16c7eb602cd83f94cb19c7117b23a
+Merge: 85039e8 dc388b6
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 6 19:57:54 2023 -0400
+
+    Merge branch 'backend' into web
+
+commit 85039e85dee1d075079e89c8c5a262468ea1e13f
+Merge: bbdc653 2797e5c
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 6 19:51:17 2023 -0400
+
+    trying to merge new backend
+
+commit bbdc65324f419c72e85db383687fa590e3242226
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 6 17:22:40 2023 -0400
+
+    made edits  to deploy.sh and added the first oauth route to test out
+
+commit e1601f72e0a406bd21a4e3f460362e127961d2be
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 6 10:33:18 2023 -0400
+
+    ui update
+
+commit 17182aeeef42467d1cd6fd4138feece2476f1572
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 10:32:30 2023 -0400
+
+    added test for invalidating/removing message
+
+commit 7e94e9eeb616e3afc74d9f0dcb57ccf817ee7459
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Apr 6 10:24:46 2023 -0400
+
+    login page allows you to sign in with google and console logs info
+
+commit 1b45c5f3394470db479a7a58b49a764e830fca09
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 10:23:45 2023 -0400
+
+    added ability to invalidate user
+
+commit 2c79543eb0740f750e698c2f0e0b8117b2bd9aef
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Apr 6 10:18:30 2023 -0400
+
+    started making login screen / new widget
+
+commit 4ce95f0e36c5983da80c796da9476b4cf2d37355
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 09:46:32 2023 -0400
+
+    updated createTableTest to drop before so it doesn't error
+
+commit 8b75225c7ca7573c2c63593cfc5809276ffea310
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 01:48:24 2023 -0400
+
+    fixed tests to work with admin DB connections
+
+commit 2671f366732650ba2d68bbf1de850601e872d546
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 01:14:10 2023 -0400
+
+    put prepared statements into separate function
+
+commit e4a18d9258c386cc3503c780504a660acdca45d9
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Apr 6 01:00:30 2023 -0400
+
+    test for creating table
+
+commit 1d1de437c30f8d786ea890eaf28469110f29e44d
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Wed Apr 5 21:16:42 2023 -0400
+
+    removed javadocs, will rengerate later
+
+commit dc388b6b3190c128ae2185d4612e0c0792fddbe0
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Apr 5 17:42:01 2023 -0400
+
+    Added test infrastructure
+
+commit 4313645a8db5302966338f607287209de536491b
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Apr 5 17:41:48 2023 -0400
+
+    Finished tempaltes for backend
+
+commit ce3e153bfb70343c20ef23ca205c7f594b47c37f
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Apr 5 14:13:05 2023 -0400
+
+    Updated tests
+
+commit a586f3c9f290bfa2e24eaa275a2fab2b2fd90254
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Apr 5 14:12:50 2023 -0400
+
+    Refactor data base to be cleaner
+
+commit 8e72b44e47338de8fecce229ff8f50d90c481202
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Tue Apr 4 16:16:21 2023 -0400
+
+    added log in page with goole button, still need to handle log in
+
+commit 8de559bd06261360133cdf19d21fe1ddc1284e38
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Tue Apr 4 10:35:19 2023 -0400
+
+    put different actions into individual functions to test easier
+
+commit 526e899c56c80b60619c0872e5773c12ceb1b76b
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Tue Apr 4 10:05:14 2023 -0400
+
+    added new options to menu for phase 2
+
+commit 449ad27688454a14849db9a79da7c56b5cec2209
+Merge: c0f95f6 0920212
+Author: Paul Kearns <paulkearns@dyn233189.cc.lehigh.edu>
+Date:   Mon Apr 3 19:12:57 2023 -0400
+
+    merging phase 2 docs to premaster
+
+commit c0f95f6e09066ca8a9d27705877caf6306da7bca
+Merge: 984cc64 2ea6654
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 23:06:03 2023 +0000
+
+    Merging react stuff from last phase
+    Merged in web (pull request #21)
+    
+    Web
+
+commit 2ea66548c18027e1982a6aba96fdf8b1187ccaec
+Author: Paul Kearns <paulkearns@dyn233189.cc.lehigh.edu>
+Date:   Mon Apr 3 19:02:48 2023 -0400
+
+    react stuff
+
+commit 092021217da1bdd6bf76679a0aac52e742069b0a
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 05:16:46 2023 +0000
+
+    README-phase1.md created online with Bitbucket
+
+commit 94218641a8516c0e2b62694e2580382669ca8496
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 05:12:53 2023 +0000
+
+    README-phase2.md edited online with Bitbucket
+
+commit 984cc6422888ec50ec2324d4eb83fcbc3d023b40
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 05:11:41 2023 +0000
+
+    README-phase2.md edited online with Bitbucket
+
+commit 1c65a90254543e64b9d0167d153063e99ed67987
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 04:58:11 2023 +0000
+
+    README-phase2.md created online with Bitbucket
+
+commit efbc1e92868c47d3fd63aa67bf96e5db66d2099f
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 04:56:03 2023 +0000
+
+    phase1-sprint7-PM_report.md reverted to previous version - I gave sprint 8 the name of sprint 7 last time
+
+commit 0eb410e4b5afad52366120599b60e9863807689f
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 04:53:52 2023 +0000
+
+    phase1-sprint8-PM_report.md created
+
+commit 0498555b6886a330fa1f0889f9eb1e6176c1eae0
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Apr 3 04:48:18 2023 +0000
+
+    phase1-sprint7-PM_report.md created
+
+commit 014e6ace2187f829de10d399c6fe7fe0f6aba8a5
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 2 23:41:28 2023 +0000
+
+    README-phase2.md edited backend tests
+
+commit 455bac701b9d04083e4cf9bb6f417447df6f5cbd
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Apr 2 23:35:32 2023 +0000
+
+    README-phase2.md edited mobile tests
+
+commit c6a7bcb14937c8f213b81c39e689d8994404b844
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Sun Apr 2 20:29:22 2023 +0000
+
+    README-phase2.md edited online with Bitbucket. Web tests added
+
+commit 903c8be4e922b539f563ca08d3e2e171a9807c47
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Apr 2 14:30:09 2023 -0400
+
+    Added testing description
+
+commit 44f7b7ed042ec21a7c64486b2575c1c7420b1f6b
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Apr 1 13:24:23 2023 -0400
+
+    Files
+
+commit fe69f6b465da6beb520fb36284910d61eec696a1
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:58:39 2023 -0400
+
+    Started writing test descriptions
+
+commit 2b8af66aad095e3c54e6645b1c8d6d42dfc46fa4
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Fri Mar 31 18:49:59 2023 +0000
+
+    README-phase2.md edit appearance
+
+commit 3db5e3fae131fc44bcfdedb33139cacaa6406d1d
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Fri Mar 31 18:48:59 2023 +0000
+
+    README-phase2.md new UI drawings
+
+commit addffcb7e98ef392e540c3e66aa45a95104a1c28
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Fri Mar 31 18:39:28 2023 +0000
+
+    added backlog items to README
+
+commit 1c942af1e2b05ba619e2cd33328e52c1426536e5
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:31:24 2023 -0400
+
+    Making gitignore ignore stuff imported from web
+
+commit 3251c864b31675a75cfb204fb7faaae04c50d2af
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:28:16 2023 -0400
+
+    Adding clean script for javadocs
+
+commit 49333f714b6c81e7e742967bc0900ac7d38ff142
+Author: Josephine <jck423@lehigh.edu>
+Date:   Fri Mar 31 18:21:13 2023 +0000
+
+    added admin test descriptions
+
+commit 5d312a36f587167dbc9bdbe229c313192c78bef6
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:17:11 2023 -0400
+
+    Fixed markdown warnings
+
+commit f28ed73ce3c3b2691c30f66ebb6ac8090c8571f3
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:09:43 2023 -0400
+
+    Finished routes
+
+commit 20d53cde5a2e743b04b01a3566d1fc1249fec3f0
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:07:59 2023 -0400
+
+    Modified route formatting
+
+commit 304b0b3e2cb0ffb9922ca69c7c3979b7a2de45fd
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 14:04:44 2023 -0400
+
+    updated readme
+
+commit ab4aba947920cad460c4568f8a4e85f8e039379f
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 31 12:34:14 2023 -0400
+
+    Added backend routes
+
+commit 86cea24b2a5f3a26c48f39e1253ce6c436bb2dae
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 20:28:05 2023 -0400
+
+    Adding routes + update ERD
+
+commit 561b0d93ffcee288e0e2e7eeb1b531b47446ba19
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 20:08:10 2023 -0400
+
+    Updated FSM
+
+commit f6e4bd57907151209925ab95c5f59a3a3887ea7b
+Merge: 3029bc7 546b72f
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 20:01:36 2023 -0400
+
+    Merge branch 'docs' of https://bitbucket.org/saj325/cse216team05 into docs
+
+commit 3029bc756c453207f55e384dff19fd2e21b812ed
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 20:01:24 2023 -0400
+
+    Fixing images with auth
+
+commit faa5022713c55796109cfd80f21a93739b3ca91c
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 19:27:37 2023 -0400
+
+    Improving routeS
+
+commit 546b72f8b0428abd9a08c202cad77f5c1b57dd71
+Author: Josephine <jck423@lehigh.edu>
+Date:   Thu Mar 30 23:03:30 2023 +0000
+
+    updated user stories
+
+commit 3470789baf61bab8e0171f791d03a6fc652dce4e
+Author: Paul Kearns <paulkearns@dyn222037.cc.lehigh.edu>
+Date:   Thu Mar 30 17:50:16 2023 -0400
+
+    tsdocs seem to be working
+
+commit 3ac857552fd39653f4e96c64c5778484ebd79509
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 10:27:41 2023 -0400
+
+    Renamed readme for phase2
+
+commit f43522cb0a39e20048c9bdaf49c7f561d89149aa
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 10:25:17 2023 -0400
+
+    Updated readme
+
+commit 6d4d9b912bdf75e5a0e657656d38ef6754f36a60
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 10:22:54 2023 -0400
+
+    Changing diagrams
+
+commit 78484ac726678a7ac503d4400c80a95c52487881
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 30 10:20:52 2023 -0400
+
+    Adding real_backend local backend flag
+
+commit 5d02887f7c3013b17694896fe7f2fb76e82a574e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 29 18:30:31 2023 -0400
+
+    FSM edits
+
+commit fb2504cd63cfcca070b791eb782584ed4d123287
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 29 18:13:47 2023 -0400
+
+    Changed system architecture diagram
+
+commit 82199c2ff10c55b1221db8033a9e970a5c21d815
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Mar 26 21:53:59 2023 -0400
+
+    sprint 7 PM report and updated root README
+
+commit 4588e032f87e64b8c9c84ca7ed39e354a260ce4c
+Merge: b668c7f a609c80
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Mon Mar 27 00:29:36 2023 +0000
+
+    Merged in web (pull request #20)
+    
+    Web
+    
+    Approved-by: Josephine
+
+commit b668c7fb8161efe541c80b6c343293c4a0b24e6e
+Merge: 83ba1f6 434732e
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Mar 26 23:52:06 2023 +0000
+
+    Merged in admin (pull request #19)
+    
+    Admin
+    
+    Approved-by: Josephine
+
+commit fe589121ec4eace6ff37a255d0203f03dba26f84
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 26 19:48:49 2023 -0400
+
+    Added bug fix to readme
+
+commit a609c80f5e887bb7041f8a7bf68bbca56d11158e
+Author: Paul Kearns <paulkearns@dyn224230.cc.lehigh.edu>
+Date:   Sun Mar 26 19:43:30 2023 -0400
+
+    linked to JSDocs in README
+
+commit 39722ebcdbe45ae34fd3bacde44db85b7fb3f9c1
+Author: Paul Kearns <paulkearns@dyn224230.cc.lehigh.edu>
+Date:   Sun Mar 26 19:40:04 2023 -0400
+
+    added jsdocs in out directory
+
+commit 40e0b0aa7f5c111381fad8f725ffb7e06fa88de9
+Author: Paul Kearns <paulkearns@dyn224230.cc.lehigh.edu>
+Date:   Sun Mar 26 19:13:06 2023 -0400
+
+    added incomplete react stuff
+
+commit 434732ec54454a524cb92debb55225b58887eb22
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 26 19:10:24 2023 -0400
+
+    README updated
+
+commit 1c35b7547b6994221efbc64e48448bf8b484cf44
+Author: Paul Kearns <paulkearns@dyn224230.cc.lehigh.edu>
+Date:   Sun Mar 26 19:02:46 2023 -0400
+
+    added basic info to README
+
+commit 2a45d7a91f658c8e2e2d913df2097f1b34b6e930
+Author: Paul Kearns <paulkearns@dyn224230.cc.lehigh.edu>
+Date:   Sun Mar 26 18:10:13 2023 -0400
+
+    improved and updated comments
+
+commit 83ba1f6ee66e3b386346dd3d254b136d14428951
+Merge: 87fdfb5 3824df5
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Mar 26 21:11:05 2023 +0000
+
+    Merged in mobile (pull request #18)
+    
+    Fixed sorting issue and dismiss issue
+    
+    Approved-by: Josephine
+
+commit 351a99ce2df02e12aed177dab02f4f3241d73d7d
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 26 15:46:23 2023 -0400
+
+    Javadoc generated files to be locally linked to readme
+
+commit 3824df50e8268da0b0a5543e6c1b254e6cb58db4
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 26 14:50:21 2023 -0400
+
+    Fixed sorting issue and dismiss issue
+
+commit 87fdfb5e1d60e2fc2ba96605e389166410228570
+Merge: 05fbdb2 2797e5c
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Sun Mar 26 18:43:44 2023 +0000
+
+    Merged in backend (pull request #17)
+    
+    Backend
+    
+    Approved-by: Josephine
+
+commit 05fbdb2a4700df9335febdf679bb05ce84fa5345
+Merge: dd09bf0 fb5e995
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Mar 26 18:28:11 2023 +0000
+
+    Merged in mobile (pull request #16)
+    
+    Mobile
+    
+    Approved-by: Josephine
+
+commit 2797e5ca986b6c678bbcda039998b47b6adb7814
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 26 14:17:21 2023 -0400
+
+    fixed link in readme
+
+commit 28126031e368d8893c2bb05e98ab20baf2465911
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 26 14:12:12 2023 -0400
+
+    adding javadocs
+
+commit 64799a12cb7413dd83847e0fcda6775fad43698b
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Mar 25 19:11:11 2023 -0400
+
+    added cors to the backend branch and ready to update dokku branch
+
+commit fb5e9957721bf2f19d298cac36d51c5da35d88f8
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 18:33:24 2023 -0400
+
+    Added docs stuff into mobile to prevent issue with pr
+
+commit 6e8ef88739524d57a4d2e0041282aa3085395d77
+Merge: 22f879a dd09bf0
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 18:31:11 2023 -0400
+
+    Fixed merge conflict
+
+commit 22f879ad9263cd6cf48ae3beb1c8c0ceca64aaf0
+Merge: 350f95d e61608c
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 18:27:16 2023 -0400
+
+    Deleting docs folder from mobile
+
+commit 350f95d54e9bf52d72566c3ff1996df5c870cdf7
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 18:25:16 2023 -0400
+
+    Deleting docs folder from mobile
+
+commit 4d28e2909c5795e1d3fcd4910ff7d263aef99fac
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 17:49:55 2023 -0400
+
+    Transition to query the dokku backend mainly
+
+commit f837d6c6a34ca22b09b94c68387cc6c60ece3a3d
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sat Mar 25 17:45:42 2023 -0400
+
+    Added flutter clean command usecase to readme
+
+commit 18f383d61bc4b2f437953856f1e7d74ca89bb397
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 15:22:24 2023 -0400
+
+    Added swipe to delete functionality
+
+commit 8658e4d740479b53436508fcb4a85b59a62379f2
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Mar 24 15:10:33 2023 -0400
+
+    added testApp test to check if database connection works
+
+commit 213a33ed845d4619f2ebc01cf202632ca40e36f6
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Mar 24 15:07:34 2023 -0400
+
+    added testApp test to check if database connection works
+
+commit ebe964d2e4066c3df0d84f32793201404ada3e8b
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Mar 24 15:03:29 2023 -0400
+
+    completed liking and disliking functionality
+
+commit d51e01c0249d952cdcf3130c29e94a6ef6cc3158
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 15:02:24 2023 -0400
+
+    Fixed backend connection errors
+
+commit d6950b77dc161347c64283b499b155c6f400ecd5
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Mar 24 14:58:42 2023 -0400
+
+    added order by to the prepared statment and added some comments
+
+commit 7ab321a47d6be8a3f5583c9d5d3baaa0be9712c2
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Mar 24 14:57:41 2023 -0400
+
+    updated user requests to include like and disliking messages
+
+commit 2dc786ff82411c5767b56f95ad0d60d7064cbfd7
+Author: saj325 <saj325@lehigh.edu>
+Date:   Fri Mar 24 14:53:15 2023 -0400
+
+    updated user requests to include like and disliking messages
+
+commit 092ef45c03bfcb0186f9b7ac4025ef6f618f1f3b
+Merge: 414acce bdd8180
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 13:23:39 2023 -0400
+
+    Merge branch 'backend' into mobile
+
+commit 414acceeeafb0b704d2f8b01ec8cf2e05ef0261a
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 13:22:54 2023 -0400
+
+    More refactoring to adapt to backend changes
+
+commit cc14374f7ba6997d56134ce745526ee7166a56bb
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 13:22:29 2023 -0400
+
+    Refactored message class to work with server json data
+
+commit e79c6bef9eccf16bdfc61af5d83cfdc6fb697f94
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 13:21:54 2023 -0400
+
+    Refactored backend to start querying database
+
+commit 94d6d1e802abf64e3aeae65396458ff3f6ed1d3e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Fri Mar 24 13:21:37 2023 -0400
+
+    Fixed bug with oversized circular progress indicator
+
+commit bdd8180577dbf343707f2245b092c0030d17f904
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Mar 23 20:38:25 2023 -0400
+
+    Unit test for app connection working
+
+commit 1a02d0a6f76af25e069d7739fa10a433d566c264
+Author: saj325 <saj325@lehigh.edu>
+Date:   Wed Mar 22 22:24:00 2023 -0400
+
+    Added deleting likes and liking functionality to database.java. Very similar to backend implementation
+
+commit 7674d490b19b4d608951ca36b994948762cfeda0
+Author: saj325 <saj325@lehigh.edu>
+Date:   Wed Mar 22 22:18:13 2023 -0400
+
+    Made prepared statements for liking and removing likes
+
+commit 803b8234172686037a86b6303b607523e25f7a32
+Author: saj325 <saj325@lehigh.edu>
+Date:   Wed Mar 22 22:12:04 2023 -0400
+
+    Added framework for prepared statements for adding and deleting likes
+
+commit dd09bf05db87adbce06639ba47c7d9015825c572
+Merge: e552ebe 0d7b6f1
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Mon Mar 13 02:06:57 2023 +0000
+
+    Merged in admin (pull request #14)
+    
+    Admin
+    
+    Approved-by: Josephine
+
+commit 0d7b6f1c5f2175437d7fda4608f137e122f5ef50
+Merge: 6aabfd4 f2afe2e
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 12 21:54:05 2023 -0400
+
+    Removed ? from drop table prepared statement
+
+commit 6aabfd435d9d08833a625e4d2f5ccef640dd9650
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 12 21:52:46 2023 -0400
+
+    Removed ? from drop table prepared statement
+
+commit e552ebebcd5f1fc3e2786ec1a055c45241a4748e
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Mar 12 21:30:41 2023 -0400
+
+    sprint 6 PM report
+
+commit dc9a1a80c5bd92383c00118a0cb67c22bd3b429c
+Merge: e0e129d f2afe2e
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Mar 12 01:39:50 2023 +0000
+
+    Merged in admin (pull request #7)
+    
+    Able to connect admin to database to create/delete/delete rows of table
+    
+    Approved-by: Josephine
+
+commit f2afe2e55bc2bd30661acc765549ddce639d5051
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Mar 12 01:39:11 2023 +0000
+
+    saj325-log.txt edited online with Bitbucket
+
+commit e0e129dbab8f308ac8e9e4e43a93e0a1de12982f
+Merge: 7cfd42e 15eefb2
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sat Mar 11 20:36:00 2023 -0500
+
+    merging backend into pre master
+
+commit 825f4802411146f9b4a431cf92f3c66e0d211100
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 20:27:42 2023 -0500
+
+    Deleted git log file
+
+commit 7cfd42eeb7420cccf4dbeccc4cca9e39ec7a9b92
+Merge: 2926b88 71c8d3d
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Mar 12 01:25:26 2023 +0000
+
+    Merged in web (pull request #13)
+    
+    Web
+    
+    Approved-by: Josephine
+
+commit 46975cbf90a270a611090ccd3f550cfbe8aeb4ac
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 20:22:31 2023 -0500
+
+    Created set up for tests but currently no functionality
+
+commit 71c8d3d4fb89585ccd2b52ba8a0207ff72e098dd
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 20:13:50 2023 -0500
+
+    further merge attempts
+
+commit 2926b8828334ce86068a977b27244792f9c3f094
+Author: Josephine <jck423@lehigh.edu>
+Date:   Sun Mar 12 01:10:14 2023 +0000
+
+    edited phase 1 readme for routes and specific tests per branch
+
+commit 530a11be3804f63deafacaf68ad05733d9ccee96
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 20:05:32 2023 -0500
+
+    Created framework for creating table, deleting row, deleting table, and creating row test, as well as character counting test. Implemeting testDeleteRow(), but currently no functionality
+
+commit 1b6945b2d81af9a09fb549c350df0a1057c6a631
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 19:53:17 2023 -0500
+
+    merge resolution attempts
+
+commit 15eefb25d0b05186273990ad0e056f114eef37e7
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Mar 11 19:49:58 2023 -0500
+
+    Reverting Repo Readme back to original
+
+commit e5434abbb4513832fc0f0024cc539c980568e89e
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Mar 11 19:48:11 2023 -0500
+
+    New Readmen updates, everything should be good now
+
+commit 38642932cae73efb97bef9f069655305247ffa2f
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 19:47:20 2023 -0500
+
+    readme merge conflict workaround
+
+commit 1915ae2b23de43484c44492030a57627dde4a0eb
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 19:23:53 2023 -0500
+
+    more testing work
+
+commit 040b6a00f728ca818f834e17dceb40c9c12f0028
+Merge: 42c4a93 91339ee
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 19:14:57 2023 -0500
+
+    merging backend for local testing
+
+commit 42c4a93b15f42e85651c5764bc4190e28987431f
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 19:13:50 2023 -0500
+
+    working on like test
+
+commit 358b18dd5765d0debe710a6bcfc917f8ee04843b
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 18:39:56 2023 -0500
+
+    new test now works ??????????
+
+commit 47eda3471c801959e328762a43e6645c5cbf9465
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 18:36:07 2023 -0500
+
+    clarified comments in testing file
+
+commit 73d8769a25a7b445ab82e277124a3dd4bf53f047
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 18:33:50 2023 -0500
+
+    added backend for local testing
+
+commit 1920f53814bcb34275fd91afe03c4ceee93050dd
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 18:32:02 2023 -0500
+
+    Made changes
+
+commit 83c1f221d0a50499fe215cb2c65b3229d2c9e967
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 18:29:32 2023 -0500
+
+    corrected compilation error - tests still not functional
+
+commit 91339ee976a37cba309a214bdfcde9d47dccd2f8
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sat Mar 11 18:14:25 2023 -0500
+
+    Updated Readme
+
+commit 82d61cdc9e5b30c85ad486162be335b2db17fff8
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 17:49:32 2023 -0500
+
+    All changes
+
+commit a6181ccfd9cad812cea0d7a712073d325b7b6b08
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 17:21:02 2023 -0500
+
+    Modified insertRow to address type mismatch error
+
+commit 10ab5163487a2c50cceb944ed73c8cf21cf80ec1
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 17:03:48 2023 -0500
+
+    Table existing
+
+commit 90fde67a7d536caf6bae3daeae9b72439dd53aa0
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sat Mar 11 07:54:41 2023 -0500
+
+    made test for character checking
+
+commit 19fb3768e6cac5ba363c0a4dcd59ca1341824921
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sat Mar 11 04:07:29 2023 -0500
+
+    created tests, only two are functional
+
+commit 46dd4113843d96222984d45736f3fbaaef7f77ba
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Fri Mar 10 23:41:30 2023 -0500
+
+    likes, dislikes, and displaying content work
+
+commit 5f40eadda5299c2ae6521bc5ca840109967c7ad1
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Fri Mar 10 23:32:48 2023 -0500
+
+    modified likes display, removed id and edit button
+
+commit 9116abd7201124ab93b2c1c2c60fa7da5751da48
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Mar 10 23:19:39 2023 -0500
+
+    working on creating tests
+
+commit aeffe8fb44929888918f2be6bb9ea8eb387c3ec1
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 22:58:06 2023 -0500
+
+    added dislike
+
+commit ee894ec2ade7af42efd27ec1bc48a2c5ec8dc0c4
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 22:53:56 2023 -0500
+
+    changed var names again
+
+commit e6d15114022cffaf159c0f78378b8d73d05927fa
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 22:36:07 2023 -0500
+
+    undid changes
+
+commit 871b16a7c17499e9d7b75e9e3c9494f2d90ad32f
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 22:26:23 2023 -0500
+
+    tried changing some var names again
+
+commit 2680b0baa35496730d4ce6daace285898f8d9b1c
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 21:41:51 2023 -0500
+
+    updated url
+
+commit c3f6ffb5ec944e467927200db66f2a47bcd75591
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 20:35:16 2023 -0500
+
+    resolved some element appearances issues
+
+commit 18af79c7f150828a13dbd3537efe758c22754576
+Merge: 49faa92 b159530
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 20:05:14 2023 -0500
+
+    Merge branch 'web' of bitbucket.org:saj325/cse216team05 into web
+
+commit 49faa92e0713a10d5f6c8132a78e2457619fc566
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 19:55:32 2023 -0500
+
+    continuing to try to connect to database
+
+commit 43d9d0b7d0407f99e76c04ec2d576e66c5aff4b7
+Author: Paul Kearns <paulkearns@paulbook-air.mynetworksettings.com>
+Date:   Fri Mar 10 16:18:12 2023 -0500
+
+    removed all edit elements
+
+commit c28b6e181666b924daa2d6fac707d276f48294b1
+Author: Paul Kearns <paulkearns@dyn227099.cc.lehigh.edu>
+Date:   Fri Mar 10 10:57:00 2023 -0500
+
+    began making web compatible with backend
+
+commit 3fb217e1f4d94d63f7df94712517c1582a45c941
+Merge: 988d6d2 682b341
+Author: Paul Kearns <paulkearns@dyn227099.cc.lehigh.edu>
+Date:   Fri Mar 10 10:30:48 2023 -0500
+
+    merging backend for local testing
+
+commit 988d6d2f8598cd629f0e67462641f4d006d9b9c4
+Author: Paul Kearns <paulkearns@dyn227099.cc.lehigh.edu>
+Date:   Fri Mar 10 09:24:40 2023 -0500
+
+    began attempting to add likes
+
+commit 9c90c6ae84d27df7db171642c1b25dd1e76a2ebc
+Author: Paul Kearns <paulkearns@dyn227099.cc.lehigh.edu>
+Date:   Fri Mar 10 09:23:57 2023 -0500
+
+    removed todo interface
+
+commit 53c2eb1b97d6b4bb5e270a5f1f48789d0568b766
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Thu Mar 9 19:41:30 2023 -0500
+
+    Added decrease and updated increase route
+
+commit 26e0474191b8327d3609b37d946a315baff31a1f
+Merge: 1cd8435 3982ba3
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Thu Mar 9 19:46:51 2023 +0000
+
+    Merged in mobile (pull request #8)
+    
+    Mobile Sprint 6
+    
+    Approved-by: Josephine
+
+commit 3982ba30b0faf976b526c10bfd4f967901c3b7d4
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 14:34:40 2023 -0500
+
+    Added potential fix for compare by date test
+
+commit 68c8b86357ae22d94bb612098fb4c768f685eb42
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 11:42:15 2023 -0500
+
+    Moved test file
+
+commit 16c121161055cdeed907e8ad6ba10390675ed505
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 11:39:53 2023 -0500
+
+    Finished readme, ready for pull request
+
+commit 6b1120c628bf4a366f2a09f56bb60d10d3de5a4e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 11:18:27 2023 -0500
+
+    Finished documentation
+
+commit 54d8a936ab61dd1241829a2d5f5cf055fa545b44
+Author: saj325 <saj325@lehigh.edu>
+Date:   Thu Mar 9 10:30:29 2023 -0500
+
+    Able to connect admin to database to create/delete/delete rows of table
+
+commit 16de6bec556b26d5efe4ff1982302d9ae2d378b8
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 10:22:51 2023 -0500
+
+    Added message class documentation
+
+commit bca3d0aa304d17268d9ec562abb9546e2d06004d
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 10:15:15 2023 -0500
+
+    Added comments to components code
+
+commit 284302ad72e62dd77bb04f0a770dba3e502536d2
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 10:01:06 2023 -0500
+
+    Added comments to backend code
+
+commit c254356ee13a995f3ad64aea450a4c3f6d34c8d1
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 10:00:19 2023 -0500
+
+    Fixed backend tests to always use fake backend
+
+commit ed829bd30b64808cf42e1b1e7205b72b2ac28d14
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 9 00:33:34 2023 -0500
+
+    Finished testing + started documentation
+
+commit 99054fdc5a7249a9a55567e4ce5b5373d0a8cca5
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 20:46:48 2023 -0500
+
+    All routes are working
+
+commit c89a1f794a6accae538f500cc6dc172da9ff5834
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 20:40:45 2023 -0500
+
+    most routes fixed except update but we understand most things now
+
+commit c52843c318e391b5be33a4c04b1b1deaad210740
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 20:15:19 2023 -0500
+
+    added depenedency to allow for debuggin
+
+commit 0a899dd78b453b2423d9a09894134db9e992aa63
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 19:55:27 2023 -0500
+
+    fixed sql statment
+
+commit 9b1da479ab5b53eae5f5bb031451b0cbab7589b8
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 19:51:17 2023 -0500
+
+    Added finishing touches on implementation of mobile
+
+commit d8d154f3e902ab2b1372e5a54b48b0e7e964eec6
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 19:35:36 2023 -0500
+
+    Tiny refractor
+
+commit 8921deeaf63d50a9fbdc8be22975079db9880cf9
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 19:35:15 2023 -0500
+
+    Added override status
+
+commit 06586ec3decf499ccb9e07f277aa8135d1d1c408
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 19:34:59 2023 -0500
+
+    Added a slight amount of documentation
+
+commit ebe3aa58574989c46e213911e63ff957b8066eb5
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 19:33:43 2023 -0500
+
+    updated the update route
+
+commit 6d90ca9c0cf9abbc54fd028d4327debf0deb431c
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Wed Mar 8 19:19:52 2023 -0500
+
+    added the update route
+
+commit e0141c1f9f014abcab8c3be4f21fbc1a33680d48
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 17:42:54 2023 -0500
+
+    Moved message class into model folder
+
+commit cab680f36fb5eaa904c390a4e65fc402ba98edd4
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 17:42:02 2023 -0500
+
+    Started building test framework
+
+commit 7d09bcdf8d0818ca688ab7a08b59bfb7a1024509
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 17:41:45 2023 -0500
+
+    Refactored backend to be a toggle singleton
+
+commit ab68f3200b2d24fdc91b89105f61b351c56e1306
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 12:49:09 2023 -0500
+
+    Matched mock backend
+
+commit 51c9eb0cdcab8d828073d731448d4f24a9de22a5
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 12:48:50 2023 -0500
+
+    Added add message functionality, upvoting
+
+commit 2d5a188b3cadc0d5762eddda69ad8aaef5d59697
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 12:48:01 2023 -0500
+
+    Removed theme for styling
+
+commit b23650a932452bcaa2c76460d95cbb3c2c0750ad
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 12:47:35 2023 -0500
+
+    Sorting messages + message validation
+
+commit f1f498e57c2f2b73054c9223b8bc2ba047f44714
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Wed Mar 8 12:46:57 2023 -0500
+
+    Added styling and icon button component
+
+commit 2a40fc428e4daf735c085dcaccb852ae92de0653
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 10:03:03 2023 -0500
+
+    Added styling
+
+commit 7acb25b33579e418fa4916399ef143a131fedca6
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 09:50:06 2023 -0500
+
+    Fixed refreshing
+
+commit 4122be80221e0a6e420f8015502ef3c5a10fb002
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 09:49:05 2023 -0500
+
+    Added creation date to message class
+
+commit 37763f34376a020e587845ab4280f21d41daebcf
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 09:48:42 2023 -0500
+
+    Added datetime to message class tests
+
+commit 9f0f484be9e267fc32c78d9fe80730d09da5605a
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 00:39:44 2023 -0500
+
+    Potential fix to scroll issue
+
+commit a6c2607cce33f5968a13d590e1aa75246302f679
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Mar 7 00:37:07 2023 -0500
+
+    Improvements to message view
+
+commit 995e6d6b70e8bef69d13e6f6b985fa83ed4b8e01
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:30:11 2023 -0500
+
+    Matched mock backend with 'real' backend to ensure it also passes tests
+
+commit ba63478981b6afa270568e9c73f6eae2838ce84e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:29:34 2023 -0500
+
+    Added liking tests and fixed mock backend
+
+commit a11b292332a57873fb9a80f2e7b70c06d5723891
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:17:10 2023 -0500
+
+    Started configuring main file
+
+commit fc0e723a60e1c33525cd3adb17a844c1764c6112
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:16:58 2023 -0500
+
+    Added UI for building message interface
+
+commit 4afa8ec95cb99f83f351d058a97a6878c72d1053
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:16:46 2023 -0500
+
+    Added shared components for future versions of the app
+
+commit 131ab6320530c8c510e07556db817310afc9bc6f
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:16:29 2023 -0500
+
+    Revamped backend superclass to be futuristic, added real messages to backendmodel
+
+commit ea50043c7a57c7845ba5b81fcf47a9ee2d274de4
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Mon Mar 6 23:15:38 2023 -0500
+
+    Fixed backend tests
+
+commit 1cd84350e9e69d44ddc37628b8815ff741668644
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Mar 5 23:23:04 2023 -0500
+
+    added sprint 5 pm report
+
+commit e7232a17bf892a5826902a03d6e3cd1f8e045332
+Author: Josephine <jck423@lehigh.edu>
+Date:   Mon Mar 6 00:03:49 2023 +0000
+
+    README-phase1.md edited online with Bitbucket
+
+commit 3cb763123adc607983edd56993ac98b4fa5c8991
+Author: Josephine <jck423@lehigh.edu>
+Date:   Sun Mar 5 23:54:30 2023 +0000
+
+    README.md edited online with Bitbucket
+
+commit ff685805eeab28a4b293b6abd03b63024fb18572
+Merge: b4cc21a 451ae69
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Mar 5 23:48:35 2023 +0000
+
+    Merged in mobile (pull request #4)
+    
+    Mobile testing more robust
+    
+    Approved-by: Josephine
+
+commit b4cc21a35f7c387b6c642769c4f71fbc4efd9389
+Merge: 043167f fde15fb
+Author: Ethan Lavi <esl225@lehigh.edu>
+Date:   Sun Mar 5 23:48:04 2023 +0000
+
+    Merged in docs (pull request #5)
+    
+    Syncing docs
+    
+    Approved-by: Josephine
+
+commit fde15fbe1c010af6b0c175ef08684fe97e74868e
+Author: Carlos Garro <cag224@lehigh.edu>
+Date:   Sun Mar 5 23:43:30 2023 +0000
+
+    README.md edited online with Bitbucket updated contact info and running locally/dokku
+
+commit e61608c54007a2b485069b81350cf54132a01eca
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 18:32:56 2023 -0500
+
+    Fixed readme spacing
+
+commit 043167f4c44990a4bf28d76a2540ea4868cf60ed
+Merge: b8e79cc e82460b
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Sun Mar 5 23:32:44 2023 +0000
+
+    Merged in admin (pull request #3)
+    
+    Pushed admin
+    
+    Approved-by: Josephine
+
+commit 09f2cfba90e85f208da84d8904cc982051709eda
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 18:32:37 2023 -0500
+
+    Fixed readme spacing
+
+commit b8e79cc2957a962c3042f4cd34593d6db4b5f30f
+Merge: 6bc9586 b159530
+Author: Paul Kearns <pdk226@lehigh.edu>
+Date:   Sun Mar 5 23:31:29 2023 +0000
+
+    Merged in web (pull request #2)
+    
+    added web folder from tutorials, with first unit test
+    
+    Approved-by: Josephine
+
+commit bd5ba375f6c72c1bc5c9c069ff93700029230978
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 18:28:02 2023 -0500
+
+    Added tests and routes update
+
+commit b159530f7597a4e56bce633bdede9e6f556f4adc
+Merge: b3a34fa 905a1b1
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Sun Mar 5 18:21:16 2023 -0500
+
+    merging backend into web to test
+
+commit 905a1b1b6470a4b7b4b3fd16716d67bc9b5531ac
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 18:09:45 2023 -0500
+
+    get request should be working
+
+commit 451ae69d1ec424faf3104a45fdaa710ba0ce960e
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 17:56:51 2023 -0500
+
+    Added tests, superclass for backend, message class
+
+commit e82460ba542d462556a0976358a878b330999dc6
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 5 17:26:30 2023 -0500
+
+    changed
+
+commit 8ad04e57dd1a199c69c5af7e56db796987395a58
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 17:08:46 2023 -0500
+
+    Updated system-architecture docs
+
+commit 1604130444b0f89e3dcea54dddc60ffbd21fac9e
+Author: saj325 <saj325@lehigh.edu>
+Date:   Sun Mar 5 16:42:06 2023 -0500
+
+    Pushed admin
+
+commit b3a34fab854b2e38c404a59b5cd2bb59174af083
+Author: Paul Kearns <paulkearns@paulBook-Air.local>
+Date:   Sun Mar 5 16:38:29 2023 -0500
+
+    added web folder from tutorials, with first unit test
+
+commit 8977e57027c5d60501012f060c3089a06c4758d4
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 12:31:48 2023 -0500
+
+    DataRow Tests working
+
+commit ce01a364a9891fcb50e08a991f6be3269f96445e
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 12:24:53 2023 -0500
+
+    local backend is connecting to the Elephant sql
+
+commit 273035185ad032bc45258f0b56c7469806bd4ff9
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 11:52:27 2023 -0500
+
+    Edited routes
+
+commit ad826c55fa02064ce50f1bc12caf7a782499d4eb
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 10:57:47 2023 -0500
+
+    Edited the rest of the files in backend/main to fit the new message structure
+
+commit be6c6d87f8a183a7e9b1890d6db571e196af530f
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 10:43:56 2023 -0500
+
+     Updated Database.java with new table, prepared statments, and methods
+
+commit a1a2de3a68658a9c1fc9469348647db69765782a
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Sun Mar 5 10:12:12 2023 -0500
+
+    Copied over old backend branch
+
+commit 3af379c2af7e350f8e9192142b28147d074a0250
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Sun Mar 5 01:23:50 2023 -0500
+
+    Added test framework with readme updates
+
+commit 682b341662241a7dae26d1c66531caf7422714fb
+Author: Carlos G <cag224@lehigh.edu>
+Date:   Fri Mar 3 14:37:30 2023 -0500
+
+    testing backend branch
+
+commit 1d66c4e316ca89971480a14959eb828515a06a6e
+Author: Josephine <jck423@lehigh.edu>
+Date:   Fri Mar 3 19:32:09 2023 +0000
+
+    added routes to phase 1 README
+
+commit 932c9f1800ae177a75e10c5f33ed5a7f3656eddb
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Fri Mar 3 13:33:20 2023 -0500
+
+    slight update to mock UI image
+
+commit fb94de5cebe6552482d0c0399946f58cd5ff0a31
+Merge: d57097f 41462ea
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Mar 2 11:13:29 2023 -0500
+
+    Merge branch 'docs' of bitbucket.org:saj325/cse216team05 into docs
+
+commit d57097f12b62de1a35e1914f7699a1c0ec05b3ec
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Thu Mar 2 11:13:06 2023 -0500
+
+    added mock UI and ERD to phase 1 readme
+
+commit 41462ea765d074d9536ff3e715a74309999f717b
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 2 10:47:08 2023 -0500
+
+    added images
+
+commit 695cb046efa61b4006947f3f852f3bd70d020570
+Merge: b728b0d 1d23b9d
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 2 10:46:50 2023 -0500
+
+    Merge branch 'docs' of https://bitbucket.org/saj325/cse216team05 into docs
+
+commit b728b0d6f191066fd631f8b6467eb38c6676d689
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Thu Mar 2 10:46:38 2023 -0500
+
+    Added fsm image
+
+commit 1d23b9de6898e152a78f5c76f52dd0d8af04c98e
+Author: Josephine <jck423@lehigh.edu>
+Date:   Thu Mar 2 15:31:33 2023 +0000
+
+    added user stories
+
+commit 73f362793973649c707fae7a38d49c3958713e97
+Author: koelschjc <koelschjc@gmail.com>
+Date:   Wed Mar 1 19:36:36 2023 -0500
+
+    created structure for README files
+
+commit 288163bc2b5fdb27853301d17fb749e18c61a042
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Feb 28 18:14:25 2023 -0500
+
+    added system architecture diagram and src files for them
+
+commit 901217261a52f2c3a36e127ce6ad1d0f66fa60c2
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Feb 28 17:48:10 2023 -0500
+
+    Added ERD
+
+commit 542f7af7a8db74589116b13c6cc1c8058d5fc255
+Author: EthanLavi <89608076+EthanLavi@users.noreply.github.com>
+Date:   Tue Feb 28 10:29:48 2023 -0500
+
+    Created flutter repo from template
+
+commit 6bc95860bd3a3839f8ac9c6eef513cb89436f6ee
+Author: Saik Arian Jalal <saj325@lehigh.edu>
+Date:   Tue Feb 28 15:17:06 2023 +0000
+
+    Initial commit
